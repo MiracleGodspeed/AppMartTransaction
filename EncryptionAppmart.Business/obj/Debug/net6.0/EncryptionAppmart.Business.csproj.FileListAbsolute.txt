@@ -1,0 +1,12 @@
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\bin\Debug\net6.0\EncryptionAppmart.Business.deps.json
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\bin\Debug\net6.0\EncryptionAppmart.Business.dll
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\bin\Debug\net6.0\EncryptionAppmart.Business.pdb
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.csproj.AssemblyReference.cache
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.AssemblyInfoInputs.cache
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.AssemblyInfo.cs
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.csproj.CoreCompileInputs.cache
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.dll
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\refint\EncryptionAppmart.Business.dll
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\EncryptionAppmart.Business.pdb
+Z:\Users\godspeedmiracle\Miracle\LloydAnt\EncryptionAppmart\EncryptionAppmart.Business\obj\Debug\net6.0\ref\EncryptionAppmart.Business.dll
